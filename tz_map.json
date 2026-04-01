@@ -1,5 +1,4 @@
-tz_map = {
-    # Africa
+{
     'Africa/Abidjan': 'GMT Standard Time',
     'Africa/Accra': 'GMT Standard Time',
     'Africa/Addis_Ababa': 'E. Africa Standard Time',
@@ -53,7 +52,7 @@ tz_map = {
     'Africa/Tunis': 'W. Central Africa Standard Time',
     'Africa/Windhoek': 'Namibia Standard Time',
     
-    # America (North, Central, South)
+    // America (North, Central, South)
     'America/Adak': 'Hawaiian Standard Time',
     'America/Anchorage': 'Alaskan Standard Time',
     'America/Anguilla': 'SA Western Standard Time',
@@ -205,7 +204,7 @@ tz_map = {
     'America/Yakutat': 'Alaskan Standard Time',
     'America/Yellowknife': 'Mountain Standard Time',
     
-    # Antarctica
+    // Antarctica
     'Antarctica/Casey': 'Central Asia Standard Time',
     'Antarctica/Davis': 'SE Asia Standard Time',
     'Antarctica/DumontDUrville': 'West Pacific Standard Time',
@@ -217,7 +216,7 @@ tz_map = {
     'Antarctica/Troll': 'GMT Standard Time',
     'Antarctica/Vostok': 'Central Asia Standard Time',
     
-    # Asia
+    // Asia
     'Asia/Aden': 'Arab Standard Time',
     'Asia/Almaty': 'Central Asia Standard Time',
     'Asia/Amman': 'Jordan Standard Time',
@@ -302,7 +301,7 @@ tz_map = {
     'Asia/Yekaterinburg': 'Ekaterinburg Standard Time',
     'Asia/Yerevan': 'Armenia Standard Time',
     
-    # Atlantic
+    // Atlantic
     'Atlantic/Azores': 'Azores Standard Time',
     'Atlantic/Bermuda': 'Atlantic Standard Time',
     'Atlantic/Canary': 'GMT Standard Time',
@@ -314,7 +313,7 @@ tz_map = {
     'Atlantic/St_Helena': 'GMT Standard Time',
     'Atlantic/Stanley': 'SA Eastern Standard Time',
     
-    # Australia
+    // Australia
     'Australia/Adelaide': 'Cen. Australia Standard Time',
     'Australia/Brisbane': 'E. Australia Standard Time',
     'Australia/Broken_Hill': 'Cen. Australia Standard Time',
@@ -328,7 +327,7 @@ tz_map = {
     'Australia/Perth': 'W. Australia Standard Time',
     'Australia/Sydney': 'AUS Eastern Standard Time',
     
-    # Europe
+    // Europe
     'Europe/Amsterdam': 'Romance Standard Time',
     'Europe/Andorra': 'Romance Standard Time',
     'Europe/Astrakhan': 'Astrakhan Standard Time',
@@ -390,7 +389,7 @@ tz_map = {
     'Europe/Zaporozhye': 'FLE Standard Time',
     'Europe/Zurich': 'W. Europe Standard Time',
     
-    # Indian Ocean
+    // Indian Ocean
     'Indian/Antananarivo': 'E. Africa Standard Time',
     'Indian/Chagos': 'Central Asia Standard Time',
     'Indian/Christmas': 'SE Asia Standard Time',
@@ -403,7 +402,7 @@ tz_map = {
     'Indian/Mayotte': 'E. Africa Standard Time',
     'Indian/Reunion': 'Mauritius Standard Time',
     
-    # Pacific
+    // Pacific
     'Pacific/Apia': 'Samoa Standard Time',
     'Pacific/Auckland': 'New Zealand Standard Time',
     'Pacific/Bougainville': 'Bougainville Standard Time',
@@ -444,7 +443,7 @@ tz_map = {
     'Pacific/Wake': 'UTC+12',
     'Pacific/Wallis': 'UTC+12',
     
-    # UTC Offsets
+    // UTC Offsets
     'UTC': 'UTC',
     'Etc/GMT': 'UTC',
     'Etc/GMT+0': 'UTC',
@@ -480,7 +479,7 @@ tz_map = {
     'Etc/GMT-13': 'UTC+13',
     'Etc/GMT-14': 'UTC+14',
     
-    # Common aliases
+    // Common aliases
     'CET': 'Central Europe Standard Time',
     'CST6CDT': 'Central Standard Time',
     'EET': 'E. Europe Standard Time',
